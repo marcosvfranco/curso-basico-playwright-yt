@@ -1,5 +1,5 @@
 {
-  "name": "curso_iniciante",
+  "name": "curso-basico-playwright-yt",
   "version": "1.0.0",
   "description": "Repositorio para o curso playwright basico do Start QA",
   "main": "index.js",
@@ -8,5 +8,6 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.30.0"
-  }
+  },
+  "repository": "https://github.com/marcosvfranco/curso-basico-playwright-yt"
 }
