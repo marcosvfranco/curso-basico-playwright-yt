@@ -1,0 +1,12 @@
+{
+  "name": "curso_iniciante",
+  "version": "1.0.0",
+  "description": "Repositorio para o curso playwright basico do Start QA",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Marcos Franco",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
